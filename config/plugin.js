@@ -2,25 +2,25 @@
 // exports.static = true;
 exports.validate = {
   enable: true,
-  package: 'egg-validate',
-}
+  package: 'egg-validate'
+};
 
 exports.bcrypt = {
   enable: true,
   package: 'egg-bcrypt'
-}
+};
 
 exports.mongoose = {
   enable: true,
-  package: 'egg-mongoose',
-}
+  package: 'egg-mongoose'
+};
 
 exports.jwt = {
   enable: true,
-  package: 'egg-jwt',
-}
+  package: 'egg-jwt'
+};
 
 exports.cors = {
   enable: true,
-  package: 'egg-cors',
-}
+  package: 'egg-cors'
+};
